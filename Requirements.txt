@@ -2,8 +2,7 @@ streamlit
 os
 tifffile
 imageio
-numpy 
-PIL
-cv2
-scipy.stats
+numpy
+Pillow
+opencv-python
 scipy
